@@ -1,0 +1,15 @@
+{
+  "name": "Telegram_Developer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lisenkovkv/Telegram_Developer.git",
+  "author": "LisenkovKV <lisenkov_kirill@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "node-schedule": "^2.1.0",
+    "telegraf": "^4.8.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
